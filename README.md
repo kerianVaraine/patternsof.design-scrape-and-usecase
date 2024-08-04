@@ -1,0 +1,1 @@
+# patternsof.design-scrape-and-usecase
